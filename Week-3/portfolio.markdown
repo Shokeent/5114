@@ -17,11 +17,12 @@ Hi Everyone, My Name Is Tarun Shokeen.
 2. Not Push Code
 
 
-## My Github Profile
+## My Social Profiles :
 
-Here's the link to my GitHub Account:
+Here's the link to my Social Account:
 
-[Shokeent] (https://github.com/Shokeent)
+[GitHub] (https://github.com/Shokeent)
+[LinkedIn]
 
 ## Here's a Image that I like:
 
