@@ -5,13 +5,13 @@
 Hi Everyone, My Name Is Tarun Shokeen.
 
 
-## Thing I like
+## Things I like
 
 - To Code
 - Push Code
 
 
-## Thing I do not like
+## Things I do not like
 
 1. To Not Code
 2. Not Push Code
@@ -28,5 +28,19 @@ Here's the link to my GitHub Account:
 ![Code](code_img.jpeg)
 
 
+### My favorite code:
+
+``` javascript
+console.log "Hello World";
+```
+## My Coding Knowledge
+
+Language | Proficiency
+-- | --
+HTML | Pro
+CSS | Semi- Pro
+Javascript | Intermediate
+Swift | Intermediate
+Kotlin | Beginner
 
 
